@@ -1,7 +1,8 @@
 streamlit
 simpy
+numpy
 pandas
 matplotlib
-scipy
 xlsxwriter
-simulation_engine
+pillow
+scipy
