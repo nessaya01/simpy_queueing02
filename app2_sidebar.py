@@ -28,7 +28,8 @@ page = st.sidebar.radio(
 
 st.sidebar.markdown("---")
 st.sidebar.info("Authors: Goldsman & Herrera\nVersion: 2.0")
-st.sidebar.image("LuisHerrera.jpg", width=160, caption="Luis Herrera")
+#st.sidebar.image("LuisHerrera.jpg", width=160, caption="Luis Herrera")
+st.sidebar.image("Buzz.jpg", width=160, caption="Buzz loves DES!")
 
 #---------------------------------------
 # PAGE: WELCOME
